@@ -1,0 +1,4 @@
+interface IDepthObject
+{
+    getEz():number;
+}
